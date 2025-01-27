@@ -1,0 +1,1 @@
+E:\MauiWeather\MauiWeather\MauiWeather\MauiWeather.csproj;x64

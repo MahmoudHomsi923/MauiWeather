@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MauiWeather</name>
+    </assembly>
+    <members>
+        <member name="M:MauiWeather.MVVM.ViewModels.WeatherViewModel.GetWeather(Microsoft.Maui.Devices.Sensors.Location)">
+            <summary>
+            Abrufen der Wetterdaten für einen bestimmten Standort und in WeatherData speichern
+            </summary>
+            <param name="location">Typ Location</param>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:MauiWeather.MVVM.ViewModels.WeatherViewModel.GetCoordinatesAsync(System.String)" -->
+    </members>
+</doc>
