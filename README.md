@@ -1,4 +1,4 @@
-MauiWeather 🌦️
+# MauiWeather 🌦️
 
 ![MauiWeather](https://github.com/user-attachments/assets/c5e9e2d6-1c81-43c0-9895-facb2f220a75)
 
